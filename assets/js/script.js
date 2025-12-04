@@ -1,7 +1,5 @@
 'use strict';
 
-/* Enhanced JS for Smooth Animation & Better UX */
-
 // Element toggle
 const toggle = (el) => el.classList.toggle("active");
 
