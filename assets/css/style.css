@@ -1,20 +1,3 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-
-/**
- * copyright 2022 @codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
 
   /**
@@ -1226,24 +1209,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
 
-
-
-
-
 /*-----------------------------------*\
   #RESPONSIVE
 \*-----------------------------------*/
-
-
-
-
-
-
-
-
-
-
-
 
 /**
  * responsive larger than 768px screen
@@ -1258,8 +1226,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   .sidebar, article { width: 700px; }
 
   .has-scrollbar::-webkit-scrollbar-button { width: 100px; }
-
-
 
   /**
    * SIDEBAR
@@ -1293,12 +1259,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .modal-avatar-box img { width: 80px; }
 
-
-
   /**
    * PORTFOLIO
    */
-
 
    
   .article-title { padding-bottom: 20px; }
